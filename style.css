@@ -4,14 +4,14 @@
     box-sizing: border-box;
 }
 
-/* header{
+header{
     width: 100%;
     height:150px;
     background-color: aqua;
     display: flex;
     justify-content: center;
     align-items: center;
-} */
+}
 
 main{
     width: 100%;
@@ -38,7 +38,7 @@ textarea{
     overflow: inherit;
 }
 
-/* footer{
+footer{
     position: absolute;
     bottom: 0;
     width: 100%;
@@ -47,4 +47,4 @@ textarea{
     display: flex;
     justify-content: center;
     align-items: center;
-} */
+}
