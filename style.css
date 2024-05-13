@@ -38,7 +38,7 @@ textarea{
     overflow: inherit;
 }
 
-footer{
+/* footer{
     position: absolute;
     bottom: 0;
     width: 100%;
@@ -47,4 +47,4 @@ footer{
     display: flex;
     justify-content: center;
     align-items: center;
-}
+} */
